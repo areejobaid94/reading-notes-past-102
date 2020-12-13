@@ -11,7 +11,7 @@ On the other hand, a fixed mindset believes that your abilities are fixed and su
 
 1. Challenges
 
-It is important to solve Challenges using the growth mindset; you have to try another way for solving when your way is not working
+** It is important to solve Challenges using the growth mindset; you have to try another way for solving when your way is not working **
 2. Obstacles
 
 My first impulse when I hit a roadblock is to immediately divert my attention to something else. I lose focus, just like it says in the chart above. Whether it’s clicking a tempting bookmark in my browser, nipping out to grab a coffee, or just about anything to delay keeping at it and fighting through the discomfort. A coworker calls this “instant gratification monkey syndrome.” It’s the idea that we’ll do just about anything other than the actual task at hand if it has suddenly become challenging, and especially when there are so many tempting diversions – articles, videos, email, social – mere clicks away.
