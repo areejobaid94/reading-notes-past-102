@@ -44,3 +44,5 @@ Maybe all this seems obvious to you, in which case, you’re lucky. For me, I’
 2. Go out of the comfort Zone
 3. Work Hard
 
+### contact info:
+Email: areej.obaid@yahoo.com
