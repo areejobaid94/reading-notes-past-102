@@ -38,4 +38,9 @@ I’ve been guilty of having a fixed mindset far too often, and I’m working to
 
 Maybe all this seems obvious to you, in which case, you’re lucky. For me, I’ve found that taking the time to assess what I’m doing is tremendously effective in keeping me on track at work. When I feel myself losing focus, I try to remember that short-term frustration will likely result in long-term improvement of my abilities – if I just stay with it. A growth mindset opens me up to more creativity and possibility, and I discover I’m able to achieve more and set higher goals.
 
+### How to keep yourself in a growth mindset?
+
+1. Keeping trying
+2. Go out of the comfort Zone
+3. Work Hard
 
