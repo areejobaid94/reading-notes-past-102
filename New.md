@@ -1,5 +1,3 @@
-# Mastering Markdown
-
 Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform.
 
 ![alt text](https://miro.medium.com/max/2800/0*V9tvdEAZmSjBG3Ny.gif)
