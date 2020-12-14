@@ -142,11 +142,20 @@ When you include a task list in the first comment of an Issue, you will see a he
 
 ## Headers:
 
-`# This is an <h1> tag
+`# This is an <h1> tag`
 
+### The Output
+# This is an <h1> tag
+
+`## This is an <h2> tag`
+
+### The Output
 ## This is an <h2> tag
 
-###### This is an <h6> tag`
+`###### This is an <h6> tag`
+
+### The Output
+###### This is an <h6> tag
 
 ## Emphasis:
 
@@ -157,6 +166,16 @@ _This will also be italic_
 __This will also be bold__
 
 _You **can** combine them_`
+
+### The Output
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
+
 
 ## Lists:
 
