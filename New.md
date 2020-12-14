@@ -40,8 +40,10 @@ Sometimes you want numbered lists:
 
 Sometimes you want bullet points:
 
-`* Start a line with a star
-* Profit!`
+```
+* Start a line with a star
+* Profit!
+```
 
 ### The Output
 * Start a line with a star
@@ -49,10 +51,12 @@ Sometimes you want bullet points:
 
 Alternatively,
 
-`- Dashes work just as well
+```
+- Dashes work just as well
 - And if you have sub points, put two spaces before the dash or star:
   - Like this
-  - And this`
+  - And this
+```
 
 ### The Output
 - Dashes work just as well
@@ -161,13 +165,15 @@ When you include a task list in the first comment of an Issue, you will see a he
 
 ## Emphasis:
 
-`*This text will be italic*
+```
+*This text will be italic*
 _This will also be italic_
 
 **This text will be bold**
 __This will also be bold__
 
-_You **can** combine them_`
+_You **can** combine them_
+```
 
 ### The Output
 *This text will be italic*
@@ -183,20 +189,34 @@ _You **can** combine them_
 
 1. Unordered
  
-`* Item 1
+```
+* Item 1
 * Item 2
   * Item 2a
   * Item 2b`
-  
+```
+
+### The Output
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b`
  2. Ordered
  
-`1. Item 1
+```
+1. Item 1
 1. Item 2
 1. Item 3
    1. Item 3a
-   1. Item 3b`
-  
-## Images:
+   1. Item 3b
+ ```
+ 
+### The Output
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
 
 `![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)`
@@ -208,15 +228,29 @@ Format: ![Alt Text](url)`
 
 ## Blockquotes:
 
-`As Kanye West said:
+```
+As Kanye West said:
 
 > We're living the future so
-> the present is our past.`
+> the present is our past.
+```
+
+### The Output
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
 
 ## Inline code:
 
-`I think you should use an
-`<addr>` element here instead.`
+```
+I think you should use an
+`<addr>` element here instead.
+```
+
+### The Output
+ I think you should use an
+`<addr>` element here instead.
 
 # GitHub Flavored Markdown
 
@@ -225,31 +259,45 @@ GitHub.com uses its own version of the Markdown syntax that provides an addition
 # Syntax highlighting
 Here’s an example of how you can use syntax highlighting with GitHub Flavored Markdown:
 
-` ```javascript
+``` 
+```
+javascript
 function fancyAlert(arg) {
   if(arg) {
     $.facebox({div:'#foo'})
   }
 }
-``` `
+```
+```
 
+<<<<<<< HEAD
 ### The output
 ```javascript
+=======
+### The Output
+
+```
+javascript
+>>>>>>> 03954ec94a838b6e0547bca25a008cdd12ae88f6
 function fancyAlert(arg) {
   if(arg) {
     $.facebox({div:'#foo'})
   }
 }
-``` 
+```
+
 
 You can also simply indent your code by four spaces:
-`
+```
     function fancyAlert(arg) {
       if(arg) {
         $.facebox({div:'#foo'})
       }
     }
-`
+```
+
+### The Output
+
 Here’s an example of Python code without syntax highlighting:
 
 def foo():
@@ -257,11 +305,12 @@ def foo():
         return True
 
 ## Task Lists:
-`
+```
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item`
+```
 
 ### The output
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
@@ -274,10 +323,12 @@ If you include a task list in the first comment of an Issue, you will get a hand
 # Tables
 You can create tables by assembling a list of words and dividing them with hyphens - (for the first row), and then separating each column with a pipe |:
 
-`First Header | Second Header
+```
+First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column`
+```
 
 ### The output
 
