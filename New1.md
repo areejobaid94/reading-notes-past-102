@@ -1,6 +1,6 @@
 # Choosing A Text Editor
 
-![alt text](https://www.techtello.com/wp-content/uploads/2020/06/fixed-mindset-vs-growth-mindset-chart.png)https://i2.wp.com/www.webuters.com/wp-content/uploads/2019/05/test-editors.jpg?fit=1200%2C550&ssl=1)
+![alt text](https://i2.wp.com/www.webuters.com/wp-content/uploads/2019/05/test-editors.jpg?w=1200&ssl=1)
 
 While you can search on Google for the “best” text editor for coding
 (and Google will definitely tell you). I think the best text editor is
