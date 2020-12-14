@@ -21,17 +21,19 @@ It's very easy to make some words **bold** and other words *italic*
 
 `with Markdown. You can even [link to Google!](http://google.com)`
 
-The output
+### The Output
 with Markdown. You can even [link to Google!](http://google.com)
 2. Lists:
 
 Sometimes you want numbered lists:
 
-`1. One
+```
+1. One
 2. Two
-3. Three`
+3. Three
+```
 
-The output
+### The Output
 1. One
 2. Two
 3. Three
@@ -41,7 +43,7 @@ Sometimes you want bullet points:
 `* Start a line with a star
 * Profit!`
 
-The output
+### The Output
 * Start a line with a star
 * Profit!
 
@@ -52,7 +54,7 @@ Alternatively,
   - Like this
   - And this`
 
-Output
+### The Output
 - Dashes work just as well
 - And if you have sub points, put two spaces before the dash or star:
   - Like this
@@ -70,14 +72,14 @@ If you want to embed images, this is how you do it:
 
 `![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)`
 
-The Output
+### The Output
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png
 
 4. Headers & Quotes:
 
 `# Structured documents`
 
-The Output
+### The Output
 # Structured documents
 
 Sometimes it's useful to have different levels of headings to structure your documents. Start lines with a `#` to create headings. Multiple `##` in a row denote smaller heading sizes.
@@ -113,7 +115,7 @@ if (isAwesome){
 }
 ````
 
-the output:
+### The Output
 ```
 if (isAwesome){
   return true
@@ -232,7 +234,6 @@ function fancyAlert(arg) {
 ``` `
 
 ### The output
-
 ```javascript
 function fancyAlert(arg) {
   if(arg) {
