@@ -13,6 +13,6 @@ Markdown |  [Link](https://areejobaid94.github.io/reading-notes/New)
 Choosing A Text Editor |  [Link](https://areejobaid94.github.io/reading-notes/New1)
 Working with git commands |  [Link](https://areejobaid94.github.io/reading-notes/New3)
 
-### contact info:
+### Contact info:
 
 Email: areej.obaid@yahoo.com
