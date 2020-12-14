@@ -1,6 +1,6 @@
 # HTML
 
-![alt text](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD///AABEIAKgBLAMBIgACEQEDEQH/)
+![alt text](https://miro.medium.com/max/3332/1*9jV5YiH3ZyxwxilaQRY2iQ.png)
 
 ## What is HTML?
 
