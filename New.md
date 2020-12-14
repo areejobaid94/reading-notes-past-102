@@ -17,28 +17,49 @@ Markdown is a way to style text on the web.
 
 1. Text:
  
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+It's very easy to make some words **bold** and other words *italic* 
 
+`with Markdown. You can even [link to Google!](http://google.com)`
+
+The output
+with Markdown. You can even [link to Google!](http://google.com)
 2. Lists:
 
 Sometimes you want numbered lists:
 
+`1. One
+2. Two
+3. Three`
+
+The output
 1. One
 2. Two
 3. Three
 
 Sometimes you want bullet points:
 
+`* Start a line with a star
+* Profit!`
+
+The output
 * Start a line with a star
 * Profit!
 
 Alternatively,
 
+`- Dashes work just as well
+- And if you have sub points, put two spaces before the dash or star:
+  - Like this
+  - And this`
+
+Output
 - Dashes work just as well
 - And if you have sub points, put two spaces before the dash or star:
   - Like this
   - And this
+
 ** It is important to solve Challenges using the growth mindset; you have to try another way for solving when your way is not working **
+
 2. Obstacles:
 
 My first impulse when I hit a roadblock is to immediately divert my attention to something else. I lose focus, just like it says in the chart above. Whether it’s clicking a tempting bookmark in my browser, nipping out to grab a coffee, or just about anything to delay keeping at it and fighting through the discomfort. A coworker calls this “instant gratification monkey syndrome.” It’s the idea that we’ll do just about anything other than the actual task at hand if it has suddenly become challenging, and especially when there are so many tempting diversions – articles, videos, email, social – mere clicks away.
@@ -47,10 +68,16 @@ My first impulse when I hit a roadblock is to immediately divert my attention to
 
 If you want to embed images, this is how you do it:
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+`![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)`
+
+The Output
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png
 
 4. Headers & Quotes:
 
+`# Structured documents`
+
+The Output
 # Structured documents
 
 Sometimes it's useful to have different levels of headings to structure your documents. Start lines with a `#` to create headings. Multiple `##` in a row denote smaller heading sizes.
@@ -72,7 +99,7 @@ These questions help you focus on all aspects of your day, the good and the bad,
 
 5. Codes:
 
-There are many different ways to style code with GitHub's markdown. If you have inline code blocks, wrap them in backticks: `var example = true`.  If you've got a longer block of code, you can indent with four spaces:
+There are many different ways to style code with GitHub's markdown. If you have inline code blocks, wrap them in backticks:``var example = true``.  If you've got a longer block of code, you can indent with four spaces:
 
     if (isAwesome){
       return true
@@ -80,6 +107,13 @@ There are many different ways to style code with GitHub's markdown. If you have 
 
 GitHub also supports something called code fencing, which allows for multiple lines without indentation:
 
+````
+if (isAwesome){
+  return true
+}
+````
+
+the output:
 ```
 if (isAwesome){
   return true
