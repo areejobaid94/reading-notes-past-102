@@ -4,6 +4,7 @@ A growth mindset helps you grow in whatever you pursue, especially in your work.
 
 ### What is a growth mindset? 
 ![alt text](https://www.techtello.com/wp-content/uploads/2020/06/fixed-mindset-vs-growth-mindset-chart.png)
+
 A growth mindset believes that you can develop your abilities by perseverance and effort.
 On the other hand, a fixed mindset believes that your abilities are fixed and success comes from these inherent qualities.
 

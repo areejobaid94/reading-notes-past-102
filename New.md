@@ -109,7 +109,9 @@ When you include a task list in the first comment of an Issue, you will see a he
 ## Headers:
 
 `# This is an <h1> tag
+
 ## This is an <h2> tag
+
 ###### This is an <h6> tag`
 
 ## Emphasis:

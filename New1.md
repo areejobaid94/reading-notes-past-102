@@ -8,6 +8,7 @@ truly the one that you enjoy using the most. That’s really the best one,
 isn’t it?
 
 ### What is a text editor?
+
 A text editor is a piece of software that you download and install on
 your computer, or you access online through your web browser, that
 allows you to write and manage text, especially the text that you write
@@ -26,6 +27,7 @@ and installed to your computer from their respective websites. Each
 of these titles do have some if not all of the features that we talked
 about earlier, and most of this software is absolutely free! They are
 widely used in web development today
+
 ### Growing at work, and outside work too
 
 I’ve been guilty of having a fixed mindset far too often, and I’m working to change that. Things like wisdom and achievement are the products of putting in hard work, not avoiding it. We live in a society where the instant gratification monkey sits on everyone’s shoulder. But the pleasures that result from determination and hard work far outweigh anything that devilish chimp has to offer. The right mindset, like the growth mindset, helps put things in perspective.
