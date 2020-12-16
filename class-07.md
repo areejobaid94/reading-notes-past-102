@@ -1,10 +1,9 @@
 
 # JS
 
-![alt text](https://static.scientificamerican.com/sciam/cache/file/891FBC57-0F0A-4A0A-85B098B7D9B5C3A1_source.jpg?w=590&h=800&634F7F4F-F337-4CB1-839504B043C2BD63)
-
-
 1. ### JS Conditional Statements:
+
+![alt text](https://www.guru99.com/images/JavaScript/javascript5_1.png)
 
 #### Use if to specify a block of code to be executed, if a specified condition is true
 #### Use else to specify a block of code to be executed, if the same condition is false
@@ -22,6 +21,8 @@ if (condition1) {
 ```
 
 2. ### JavaScript Functions:
+
+![alt text](https://s3.amazonaws.com/dashingd3js/d3-lesson-images/lesson-84/javascript-function-operator-call-versus-javascript-function-expression-call_720x355.png)
 
 #### A JavaScript function is a block of code designed to perform a particular task.
 
@@ -44,6 +45,8 @@ name(parameter1, parameter2, parameter3)
 ```
 
 3. ### alert in JS:
+
+![alt text](https://i.stack.imgur.com/00slP.png)
 
 #### The alert() method displays an alert box with a specified message and an OK button.
 
