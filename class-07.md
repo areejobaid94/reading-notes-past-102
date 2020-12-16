@@ -38,8 +38,16 @@ function name(parameter1, parameter2, parameter3) {
 
 #### The code inside the function will execute when "something" invokes (calls) the function.
 
-### JavaScript Function Invocation
+### JavaScript Function Invocation Syntax
 ```
 name(parameter1, parameter2, parameter3)
 ```
 
+3. ### alert in JS:
+
+#### The alert() method displays an alert box with a specified message and an OK button.
+
+### alert Syntax
+```
+alert(mess)
+```
