@@ -14,6 +14,13 @@ Choosing A Text Editor |  [Link](https://areejobaid94.github.io/reading-notes/Ne
 Working with git commands |  [Link](https://areejobaid94.github.io/reading-notes/New3)
 class-02 => HTMLL Lists && CSS |  [Link](https://areejobaid94.github.io/reading-notes/class-02)
 
+## amman-code-201d12 Discussions
+
+ Page Name |The Link Of the Page
+------------ | -------------
+class-02 => HTMLL Lists && CSS |  [Link](https://areejobaid94.github.io/reading-notes/class-02)
+
+
 
 ### Contact info:
 
