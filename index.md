@@ -12,6 +12,8 @@ The benefits of a growth mindset |  [Link](https://areejobaid94.github.io/readin
 Markdown |  [Link](https://areejobaid94.github.io/reading-notes/New)
 Choosing A Text Editor |  [Link](https://areejobaid94.github.io/reading-notes/New1)
 Working with git commands |  [Link](https://areejobaid94.github.io/reading-notes/New3)
+class-02 => HTMLL Lists && CSS |  [Link](https://areejobaid94.github.io/reading-notes/class-02)
+
 
 ### Contact info:
 
