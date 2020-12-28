@@ -227,6 +227,11 @@ div {
 
 ### Basic JavaScript Instructions
 
+##### A computer program is a list of "instructions" to be "executed" by a computer.
+
+##### In a programming language, these programming instructions are called statements.
+
+A JavaScript program is a list of programming statements.
 #### Loops allow statements to be repeated
 - The code to be repeated is in the loop body
 - One repetition of the body is called an iteration
