@@ -223,4 +223,13 @@ div {
 }
 ```
 
+# JS:
 
+### Basic JavaScript Instructions
+
+#### Loops allow statements to be repeated
+- The code to be repeated is in the loop body
+- One repetition of the body is called an iteration
+- Loops are structurally similar to if statements
+- The loop control statement(s) are contained in ()s after the keyword
+- The loop body is contained in {}s
